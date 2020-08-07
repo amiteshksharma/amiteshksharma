@@ -11,6 +11,25 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: ...
 -->
+:smiley: About me: 
+
+  Aspiring Computer Science student with programming strengths in Java, 
+  Android Studio, JavaScript, HTML/CSS, and React framework looking to 
+  apply my knowledge to the real world.
+
+:muscle: Strengths:
+  - JavaScript
+  - React
+  - HTML/CSS
+  - Java
+  - Android Studio development
+  - Git and Github
+  - Firebase (noSQL) and Firestore
+  
+🌱 I’m currently learning ...
+  - Python
+  - Database storage
+  - Data Scraping with Puppeteer
