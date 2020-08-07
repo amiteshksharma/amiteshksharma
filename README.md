@@ -1,17 +1,5 @@
-### Hi there 👋
+### Hi there, welcome to my Github! 👋
 
-<!--
-**amiteshksharma/amiteshksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
 :smiley: About me ... 
 
   Aspiring Computer Science student with programming strengths in Java, 
@@ -40,5 +28,6 @@ Here are some ideas to get you started:
     
 ⚡ Fun facts ...
   - I enjoy hiking mountains in southern California
-  - Playing :basketball: and :soccer: 
+  - I play :basketball: and :soccer: 
+  - I have one dog named Yogi, a labradoodle :dog:
     
