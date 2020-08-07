@@ -9,25 +9,25 @@
 😄 Pronouns: He/him/his
 
   :muscle: Strengths ...
-    - JavaScript
-    - React
-    - HTML/CSS
-    - Java
-    - Android Studio development
-    - Git and Github
-    - Firebase (noSQL) and Firestore
+  - JavaScript
+  - React
+  - HTML/CSS
+  - Java
+  - Android Studio development
+  - Git and Github
+  - Firebase (noSQL) and Firestore
   
   🌱 I’m currently learning or will learn ...
-    - Python
-    - Database storage
-    - Data Scraping with Puppeteer
+  - Python
+  - Database storage
+  - Data Scraping with Puppeteer
   
   📫 How to reach me ...
     :email: amitesh.sharma.2001@gmail.com
     :telephone_receiver: 858-877-8069
     
   ⚡ Fun facts ...
-    - I enjoy hiking mountains in southern California
-    - I play :basketball: and :soccer: 
-    - I have one dog named Yogi, a labradoodle :dog:
+  - I enjoy hiking mountains in southern California
+  - I play :basketball: and :soccer: 
+  - I have one dog named Yogi, a labradoodle :dog:
     
