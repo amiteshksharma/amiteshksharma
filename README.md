@@ -10,17 +10,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: ...
 -->
-:smiley: About me: 
+:smiley: About me ... 
 
   Aspiring Computer Science student with programming strengths in Java, 
   Android Studio, JavaScript, HTML/CSS, and React framework looking to 
   apply my knowledge to the real world.
 
-:muscle: Strengths:
+😄 Pronouns: He/him/his
+
+:muscle: Strengths ...
   - JavaScript
   - React
   - HTML/CSS
@@ -29,7 +29,16 @@ Here are some ideas to get you started:
   - Git and Github
   - Firebase (noSQL) and Firestore
   
-🌱 I’m currently learning ...
+🌱 I’m currently learning or will learn ...
   - Python
   - Database storage
   - Data Scraping with Puppeteer
+  
+📫 How to reach me ...
+    :email: amitesh.sharma.2001@gmail.com
+    :telephone_receiver: 858-877-8069
+    
+⚡ Fun facts ...
+  - I enjoy hiking mountains in southern California
+  - Playing :basketball: and :soccer: 
+    
