@@ -20,7 +20,7 @@
   🌱 I’m currently learning or will learn ...
   - Python
   - Database storage
-  - Data Scraping with Puppeteer
+  - React Native
   
   📫 How to reach me ...  
   - :email: amitesh.sharma.2001@gmail.com
