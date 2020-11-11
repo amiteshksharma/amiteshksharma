@@ -16,11 +16,12 @@
   - Android Studio development
   - Git and Github
   - Firebase (noSQL) and Firestore
+  - Python
+  - React Native
   
   🌱 I’m currently learning or will learn ...
-  - Python
+  - C
   - Database storage
-  - React Native
   
   📫 How to reach me ...  
   - :email: amitesh.sharma.2001@gmail.com
