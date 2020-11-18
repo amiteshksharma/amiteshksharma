@@ -13,11 +13,14 @@
   - React
   - HTML/CSS
   - Java
-  - Android Studio development
   - Git and Github
   - Firebase (noSQL) and Firestore
-  - Python
+  
+  Familiar with ...
   - React Native
+  - C
+  - Android Studio Development
+  - Python
   
   🌱 I’m currently learning or will learn ...
   - C
