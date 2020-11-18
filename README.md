@@ -10,17 +10,20 @@
 
   :muscle: Strengths ...
   - JavaScript
-  - React
+  - React.js
   - HTML/CSS
   - Java
   - Git and Github
   - Firebase (noSQL) and Firestore
+  - Python
+  - Node.js
+  - Express.js (Backend)
   
   Familiar with ...
   - React Native
   - C
   - Android Studio Development
-  - Python
+  - MySQL
   
   🌱 I’m currently learning or will learn ...
   - C
