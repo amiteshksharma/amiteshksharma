@@ -23,10 +23,17 @@
   - Express.js (Backend)
   
   Familiar with ...
+  - Angular.js
   - C
   - Android Studio Development
   - MySQL
+  - MongoDB
   - ElasticSearch
+  - Zeplin
+  - Adobe XD
+  - Figma
+  - Python Flask
+  - Python Tornado
   
   📫 How to reach me ...  
   - :email: amitesh.sharma.2001@gmail.com
