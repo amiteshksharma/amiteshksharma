@@ -2,9 +2,9 @@
 
 :smiley: About me ... 
 
-  Aspiring Computer Science student with programming strengths in Java, 
-  Android Studio, JavaScript, HTML/CSS, and React framework looking to 
-  apply my knowledge to the real world.
+  Former eCommerce Software Engineer intern at Walmart Global Tech and an aspiring Computer Scientist. 
+  Industry experience in front-end development with React, React Native, and 
+  TypeScript and in back-end development with Python and Node.js. Strong understanding of the programming languages Java and C++. 
 
 😄 Pronouns: He/him/his
 
