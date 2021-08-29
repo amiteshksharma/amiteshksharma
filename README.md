@@ -10,9 +10,12 @@
 
   :muscle: Strengths ...
   - JavaScript
+  - TypeScript
+  - React Native
   - React.js
   - HTML/CSS
   - Java
+  - C++
   - Git and Github
   - Firebase (noSQL) and Firestore
   - Python
@@ -20,14 +23,10 @@
   - Express.js (Backend)
   
   Familiar with ...
-  - React Native
   - C
   - Android Studio Development
   - MySQL
-  
-  🌱 I’m currently learning or will learn ...
-  - C
-  - Database storage
+  - ElasticSearch
   
   📫 How to reach me ...  
   - :email: amitesh.sharma.2001@gmail.com
@@ -38,4 +37,5 @@
   - I enjoy hiking mountains in southern California
   - I play :basketball: and :soccer: 
   - I have one dog named Yogi, a labradoodle :dog:
+  - I enjoy building Lego in my spare time as well
     
