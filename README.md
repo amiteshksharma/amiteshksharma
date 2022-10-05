@@ -2,9 +2,9 @@
 
 :smiley: About me ... 
 
-  Former eCommerce Software Engineer intern at Walmart Global Tech and an aspiring Computer Scientist. 
-  Industry experience in front-end development with React, React Native, and 
-  TypeScript and in back-end development with Python and Node.js. Strong understanding of the programming languages Java and C++. 
+  Current UC San Diego Computer Science student and an aspiring Full‑stack developer. Industry experience in front‑end development
+  with React.js, React Native, and TypeScript and in back‑end development with Python and Node.js. Strong understanding of the pro‑
+  gramming languages Java, TypeScript and C++
 
 😄 Pronouns: He/him/his
 
@@ -27,22 +27,16 @@
   - C
   - Android Studio Development
   - MySQL
+  - SQLAlchemy
   - MongoDB
   - ElasticSearch
-  - Zeplin
   - Adobe XD
   - Figma
   - Python Flask
-  - Python Tornado
   
   📫 How to reach me ...  
   - :email: amitesh.sharma.2001@gmail.com
   - :telephone_receiver: 858-877-8069  
-  
-    
-  ⚡ Fun facts ...
-  - I enjoy hiking mountains in southern California
-  - I play :basketball: and :soccer: 
-  - I have one dog named Yogi, a labradoodle :dog:
-  - I enjoy building Lego in my spare time as well
+  - Please email me first, I generally don't answer phone calls from unknown numbers
+   
     
