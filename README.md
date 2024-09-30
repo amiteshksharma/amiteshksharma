@@ -2,9 +2,8 @@
 
 :smiley: About me ... 
 
-  Current UC San Diego Computer Science student and an aspiring Full‑stack developer. Industry experience in front‑end development
-  with React.js, React Native, and TypeScript and in back‑end development with Python and Node.js. Strong understanding of the pro‑
-  gramming languages Java, TypeScript and C++
+  I am currently a full-stack software engineer for Walmart Global Tech. Industry experience in front-end development with React.js, React Native, and TypeScript 
+  and in back-end development with Python and Node.js. Strong understanding of the programming languages JavaScript, TypeScript, Python, and C++
 
 😄 Pronouns: He/him/his
 
